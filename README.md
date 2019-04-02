@@ -65,13 +65,13 @@
 [crackmes.cf](http://crackmes.cf/)
 
 ### Windows Kernel Exploit
-[Windows Kernel Exploit Part 1](https://paper.seebug.org/872/)
-[Windows Kernel Exploit Part 2](https://paper.seebug.org/873/)
-[Windows Kernel Exploit Part 3](https://paper.seebug.org/874/)
-[Windows Kernel Exploit Part 4](https://paper.seebug.org/875/)
-[Windows Kernel Exploit Part 5](https://paper.seebug.org/876/)
-[Windows Kernel Exploit Part 6](https://paper.seebug.org/877/)
-[Windows Kernel Exploit Part 7](https://paper.seebug.org/878/)
+- [Windows Kernel Exploit Part 1](https://paper.seebug.org/872/)
+- [Windows Kernel Exploit Part 2](https://paper.seebug.org/873/)
+- [Windows Kernel Exploit Part 3](https://paper.seebug.org/874/)
+- [Windows Kernel Exploit Part 4](https://paper.seebug.org/875/)
+- [Windows Kernel Exploit Part 5](https://paper.seebug.org/876/)
+- [Windows Kernel Exploit Part 6](https://paper.seebug.org/877/)
+- [Windows Kernel Exploit Part 7](https://paper.seebug.org/878/)
 
 ## TODO
 
